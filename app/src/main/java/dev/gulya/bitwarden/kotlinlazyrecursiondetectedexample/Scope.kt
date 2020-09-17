@@ -1,0 +1,3 @@
+package dev.gulya.bitwarden.kotlinlazyrecursiondetectedexample
+
+annotation class Scope
